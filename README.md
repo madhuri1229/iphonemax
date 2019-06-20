@@ -1,0 +1,2 @@
+# iphonemax
+about phone config
